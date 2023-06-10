@@ -1,0 +1,5 @@
+week 8 pratical - question 1 automation
+
+headers =  referer : URL, User-agent : google what my user agent is - Question 2
+
+ 
